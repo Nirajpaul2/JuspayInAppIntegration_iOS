@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-HyperPPDemo/Pods-HyperPPDemo-frameworks.sh
+${PODS_ROOT}/HyperSDK/HyperSDK.framework
+${PODS_ROOT}/JuspaySafeBrowser/JuspaySafeBrowser.framework
+${PODS_ROOT}/Salvator/Salvator.framework
